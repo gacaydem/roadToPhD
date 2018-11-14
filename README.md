@@ -30,11 +30,11 @@ Courses | Duration | Effort | Status
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | week 6
 
 ---
-## Computer Science
+## CS
 [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | 8 weeks | 4-8 hours/week | unit 3
 
 ---
-## Data Science
+## DS
 
 ---
 
@@ -53,23 +53,7 @@ Courses | Duration | Effort | Status
     - [Advanced systems](#advanced-systems)
     - [Advanced theory](#advanced-theory)
     - [Advanced applications](#advanced-applications) 
-## Data Science
-- [Linear Algebra](#linear-algebra)
-- [Single Variable Calculus](#single-variable-calculus)
-- [Multivariable Calculus](#multivariable-calculus)
-- [Python](#python)
-- [Probability and Statistics](#probability-and-statistics)
-- [Introduction to Data Science](#introduction-to-data-science)
-- [Machine Learning](#machine-learning)
-- [Project](#project)
-- [Convex Optimization](#convex-optimization)
-- [Data Wrangling](#data-wrangling)
-- [Big Data](#big-data)
-- [Database](#database)
-- [Deep Learning](#deep-learning)
-- [Natural Language Processing](#natural-language-processing)
-- [Capstone Project](#capstone-project)
-- [Specializations](#specializations)
+
 ---
 ### Introduction to Computer Science
 Courses | Duration | Effort | Prerequisites | Status
@@ -174,9 +158,27 @@ Courses | Duration | Effort | Prerequisites | Status
 
 ---
 ---
+# Nội dung học
+## Data Science
+- [Linear Algebra](#linear-algebra)
+- [Single Variable Calculus](#single-variable-calculus)
+- [Multivariable Calculus](#multivariable-calculus)
+- [Python](#python)
+- [Probability and Statistics](#probability-and-statistics)
+- [Introduction to Data Science](#introduction-to-data-science)
+- [Machine Learning](#machine-learning)
+- [Project](#project)
+- [Convex Optimization](#convex-optimization)
+- [Data Wrangling](#data-wrangling)
+- [Big Data](#big-data)
+- [Database](#database)
+- [Deep Learning](#deep-learning)
+- [Natural Language Processing](#natural-language-processing)
+- [Capstone Project](#capstone-project)
+- [Specializations](#specializations)
 
+---
 #### Linear Algebra
-
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--:
 [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 15 weeks | 8 hours/week
