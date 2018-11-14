@@ -31,11 +31,14 @@ Courses | Duration | Effort | Status
 
 ---
 ## CS
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--: 
 [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | 8 weeks | 4-8 hours/week | unit 3
 
 ---
 ## DS
-
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--: 
 ---
 
 # Nội dung học
