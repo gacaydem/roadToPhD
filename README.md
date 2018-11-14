@@ -41,7 +41,7 @@ Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--: 
 ---
 
-# Nội dung học
+<!-- # Nội dung học
 Dưới đây là chương trình Computer Science 
 
 ## Computer Science
@@ -271,4 +271,4 @@ Courses | Duration | Effort | Status
 
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
-
+ -->
