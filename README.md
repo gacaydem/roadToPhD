@@ -22,7 +22,7 @@ Tôi lập repository này để theo dõi việc tự học của bản thân t
 - Ngoại ngữ: Tôi có chứng chỉ TOEIC,820 điểm, tạm đủ dùng để nghiên cứu. Tôi nói cũng tạm ổn.
 
 # Tiến độ tuần này
-## Common
+## Những phần chung
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--: 
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | week 5
@@ -40,6 +40,32 @@ Courses | Duration | Effort | Status
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--: 
 ---
+
+## Piano
+Category | RCM Level | Baroque | Melodic | Mechanical | Status
+:-- | :--: | :--: | :--: | :--: | :--:
+A	| 3-5 |	Bach AMB(1) |	Burgmuller Op. 100 |	Hanon
+
+<!-- B	| 6-8	| Bach 2PI(2)	| Heller Op. 45(6) ; Berens Op. 61	| Schmitt Op. 16; Clementi PE(9)
+C	| 9-10 |	Bach 3PI(3)	| MacDowell Op. 39(7)	| Czerny Op. 299(10) , 337(11)
+D	| 10+	| Bach WTC(4)	| Moszowski Op. 72; Chopin NE(8) |	Clementi GaP(12) ; Czerny Op. 740(13)
+E	| 10+	| Bach FS(5)	| Chopin Ops. 10, 25 |	Brahms WoO 6(14)
+
+1. AMB = Anna Magdalena Bach's Notebook
+2. 2PI = Two Part Inventions
+3. PI = Three Part Inventions
+4. WTC = Well Tempered Clavier
+5. FS = French Suites. Can also use English Suites or Partitas.
+6. Any of Heller Ops. 45, 46, 47 will work here. Also Burgmuller Op. 109
+7. Hans von Bulow and Chopin himself recommend Mocheles' Op. 70, but I replaced it due to lack of popularity, as it may become harder to find quality recordings.
+8. NE = Nouvelle Etudes
+9. PE = Preludes and Exercises
+10. a.k.a. School of Velocity
+11. a.k.a. 40 Daily Exercises
+12. GaP Gradus ad Parnassum. Op. 44. The Tausig edition includes mostly just the mechanical pieces.
+13. a.k.a. School of Finger dexterity
+14. a.k.a. 51 Exercises
+--- -->
 
 <!-- # Nội dung học
 Dưới đây là chương trình Computer Science 
