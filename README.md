@@ -30,11 +30,11 @@ Courses | Duration | Effort | Status
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | week 6
 
 ---
-## Computer Science
+## CS
 [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | 8 weeks | 4-8 hours/week | unit 3
 
 ---
-## Data Science
+## DS
 
 ---
 
