@@ -42,6 +42,8 @@ Courses | Duration | Effort | Status
 ---
 
 # Nội dung học
+Dưới đây là chương trình Computer Science 
+
 ## Computer Science
 - [Introduction to Computer Science](#introduction-to-computer-science)
 - [Core CS](#core-cs)
@@ -162,6 +164,8 @@ Courses | Duration | Effort | Prerequisites | Status
 ---
 ---
 # Nội dung học
+Dưới đây là chương trình Data Science 
+
 ## Data Science
 - [Linear Algebra](#linear-algebra)
 - [Single Variable Calculus](#single-variable-calculus)
