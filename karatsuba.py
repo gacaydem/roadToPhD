@@ -1,23 +1,20 @@
 def karatsuba(x,y):
-    n = len(x)
-    if n==1:
-        return int(x)*int(y)
+    if x<10:
+        return x*y
     else:
-
-        a,b = x[0:int(n/2)],x[int(n/2):]
-        p = int(a)+int(b)
-        c,d = y[0:int(n/2)],y[int(n/2):]
-        q = int(c)+int(d)
+        n = int(len(str(x))/2)
+        a,b = x//(10**n),x%(10**n)
+        c,d = y//(10**n),y%(10**n)
+        p = a+b
+        q = c+d
         ac = karatsuba(a,c)
         bd = karatsuba(b,d)
         pq = karatsuba(p,q)
-
         adbc = pq-ac-bd
-        return 10^int(n) * ac + 10^int(n/2) * adbc + bd
-        # return
+        return (10**(2*n)) * ac + (10**n) * adbc + bd
 
-x = str(1234)
-y = str(5678)
+x = int(input('x='))
+y = int(input('y='))
 
 result = karatsuba(x,y)
-# print(result)
+print('x*y=',result)
