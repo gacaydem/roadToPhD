@@ -1,23 +1,15 @@
 # Mục lục
-
 - [Giới thiệu](#giới-thiệu)
 - [Nội dung học](#nội-dung-học)
-  - [Introduction to Computer Science](#introduction-to-computer-science)
-  - [Core CS](#core-cs)
-  - [Advanced CS](#advanced-cs)
-
+  - [Computer Science](#computer-science)
+  - [Data Science](#data-science)
 
 # Giới thiệu
-
 Tôi lập repository này để theo dõi việc tự học của bản thân trong 5 năm tới, định hướng trở thành PhD tại ít nhất 1 trong 2 lĩnh vực Data Science và Computer Science. 
 
 **Tài liệu**:
 - Chủ yếu tài liệu video của tôi được tham khảo từ OSSU CS và DS, khi tìm kiếm từ khoá này các bạn sẽ được dẫn tới list các khoá học đầy đủ của 2 chương trình này.
 - Về giáo trình, có thể dễ dàng tìm kiếm trên mạng qua trang l\*bg\*n.io
-
-When no course meets the above criteria, the coursework is supplemented with a book.
-When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
 
 **Thời gian biểu**:
 - Thường tôi dành 15-20 tiếng cho DS, 15-20 tiếng cho CS mỗi tuần. Ngoài ra tôi cũng luyện cả piano nữa, tầm 7 tiếng/ tuần
@@ -29,29 +21,63 @@ they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/r
 - Tháng 11/2018: Tôi chính thức là học viên cao học, ngành Data Science, HUS, VNU
 - Ngoại ngữ: Tôi có chứng chỉ TOEIC,820 điểm, tạm đủ dùng để nghiên cứu. Tôi nói cũng tạm ổn.
 
-# Nội dung học
-- [Introduction to Computer Science](#introduction-to-computer-science)
-- [Core CS](#core-cs)
-  - [Core programming](#core-programming)
-  - [Core math](#core-math)
-  - [Core systems](#core-systems)
-  - [Core theory](#core-theory)
-  - [Core applications](#core-applications)
-- [Advanced CS](#advanced-cs)
-  - [Advanced programming](#advanced-programming)
-  - [Advanced math](#advanced-math)
-  - [Advanced systems](#advanced-systems)
-  - [Advanced theory](#advanced-theory)
-  - [Advanced applications](#advanced-applications)
+# Tiến độ tuần này
+## Common
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--: 
+[Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | week 5
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x-0) | 13 weeks | 6-10 hours/week | unit 4
+[Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | week 6
 
 ---
-## Introduction to Computer Science
+## Computer Science
+[Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | 8 weeks | 4-8 hours/week | unit 3
+
+---
+## Data Science
+
+---
+
+# Nội dung học
+## Computer Science
+- [Introduction to Computer Science](#introduction-to-computer-science)
+- [Core CS](#core-cs)
+    - [Core programming](#core-programming)
+    - [Core math](#core-math)
+    - [Core systems](#core-systems)
+    - [Core theory](#core-theory)
+    - [Core applications](#core-applications)
+- [Advanced CS](#advanced-cs)
+    - [Advanced programming](#advanced-programming)
+    - [Advanced math](#advanced-math)
+    - [Advanced systems](#advanced-systems)
+    - [Advanced theory](#advanced-theory)
+    - [Advanced applications](#advanced-applications) 
+## Data Science
+- [Linear Algebra](#linear-algebra)
+- [Single Variable Calculus](#single-variable-calculus)
+- [Multivariable Calculus](#multivariable-calculus)
+- [Python](#python)
+- [Probability and Statistics](#probability-and-statistics)
+- [Introduction to Data Science](#introduction-to-data-science)
+- [Machine Learning](#machine-learning)
+- [Project](#project)
+- [Convex Optimization](#convex-optimization)
+- [Data Wrangling](#data-wrangling)
+- [Big Data](#big-data)
+- [Database](#database)
+- [Deep Learning](#deep-learning)
+- [Natural Language Processing](#natural-language-processing)
+- [Capstone Project](#capstone-project)
+- [Specializations](#specializations)
+---
+### Introduction to Computer Science
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | high school algebra 
 
-## Core CS
-### Core programming
+### Core CS
+#### Core programming
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [How to Code - Simple Data](https://www.edx.org/course/how-code-simple-data-ubcx-htc1x) | 7 weeks | 8-10 hours/week | none
@@ -62,7 +88,7 @@ Courses | Duration | Effort | Prerequisites | Status
 [Programming Languages, Part B](https://www.coursera.org/learn/programming-languages-part-b) | 3 weeks | 8-16 hours/week | Programming Languages, Part A
 [Programming Languages, Part C](https://www.coursera.org/learn/programming-languages-part-c) | 3 weeks | 8-16 hours/week | Programming Languages, Part B
 
-### Core math
+#### Core math
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | - | - | pre-calculus
@@ -72,7 +98,7 @@ Courses | Duration | Effort | Prerequisites | Status
 [Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x-0) | 13 weeks | 5-10 hours/week | Calculus 1B
 [Mathematics for Computer Science](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-spring-2015/index.htm)<sup>**1**</sup> | 13 weeks | 5 hours/week | Calculus 1C
 
-### Core systems
+#### Core systems
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Computer Science - CS50](https://www.edx.org/course/introduction-computer-science-harvardx-cs50x#!) ([alt](https://cs50.harvard.edu/)) | 12 weeks | 10-20 hours/week | introductory programming
@@ -81,13 +107,13 @@ Courses | Duration | Effort | Prerequisites | Status
 [Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| 8 weeks | 4–12 hours/week | algebra, probability, basic CS
 [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | 15 weeks | 6 hours/week | algorithms
 
-### Core theory
+#### Core theory
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | 8 weeks | 4-8 hours/week | any programming language, Mathematics for Computer Science
 [Algorithms: Design and Analysis, Part II](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms2+SelfPaced/about) | 8 weeks | 4-8 hours/week | Part I
 
-### Core applications
+#### Core applications
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Databases](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| 12 weeks | 8-12 hours/week | some programming, basic CS
@@ -97,8 +123,8 @@ Courses | Duration | Effort | Prerequisites | Status
 [Software Engineering: Introduction](https://www.edx.org/course/software-engineering-introduction-ubcx-softeng1x) | 6 weeks | 8-10 hours/week | Software Construction - Object-Oriented Design
 [Software Development Capstone Project](https://www.edx.org/course/software-development-capstone-project-ubcx-softengprjx) | 6-7 weeks | 8-10 hours/week | Software Engineering: Introduction
 
-## Advanced CS
-### Advanced programming
+### Advanced CS
+#### Advanced programming
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)| 9 weeks | 6-8 hours/week | none
@@ -108,13 +134,13 @@ Courses | Duration | Effort | Prerequisites | Status
 [Introduction to Parallel Programming](https://www.udacity.com/course/intro-to-parallel-programming--cs344) ([alt](https://www.youtube.com/playlist?list=PLGvfHSgImk4aweyWlhBXNF6XISY3um82_)) | 12 weeks | - | C, algorithms
 [Software Architecture & Design](https://www.udacity.com/course/software-architecture-design--ud821)| 8 weeks | 6 hours/week | software engineering in Java
 
-### Advanced math
+#### Advanced math
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm) | 13 weeks | 12 hours/week | MIT Calculus 1C
 [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-2) | 18 weeks | 12 hours/week | Multivariable Calculus
 
-### Advanced systems
+#### Advanced systems
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Reliable Distributed Systems, Part 1](https://www.edx.org/course/reliable-distributed-algorithms-part-1-kthx-id2203-1x) | 5 weeks | 5 hours/week | Scala, intermediate CS
@@ -125,7 +151,7 @@ Courses | Duration | Effort | Prerequisites | Status
 [Computation Structures 2: Computer Architecture](https://www.edx.org/course/computation-structures-2-computer-mitx-6-004-2x) | 10 weeks | 6 hours/week | Computation Structures 1
 [Computation Structures 3: Computer Organization](https://www.edx.org/course/computation-structures-3-computer-mitx-6-004-3x-0) | 10 weeks | 6 hours/week | Computation Structures 2
 
-### Advanced theory
+#### Advanced theory
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Introduction to Logic](https://www.coursera.org/learn/logic-introduction) | 10 weeks | 4-8 hours/week | set theory
@@ -134,7 +160,7 @@ Courses | Duration | Effort | Prerequisites | Status
 [Introduction to Formal Concept Analysis](https://www.coursera.org/learn/formal-concept-analysis) | 6 weeks | 4-6 hours/week | logic, probability
 [Game Theory](https://www.coursera.org/learn/game-theory-1) | 8 weeks | x hours/week | mathematical thinking, probability, calculus
 
-### Advanced applications
+#### Advanced applications
 Courses | Duration | Effort | Prerequisites | Status
 :-- | :--: | :--: | :--: | :--:
 [Robotics (Specialization)](https://www.coursera.org/specializations/robotics) | 26 weeks | 2-5 hours/week | linear algebra, calculus, programming, probability
@@ -146,6 +172,93 @@ Courses | Duration | Effort | Prerequisites | Status
 [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/week | One year programming experience
 
+---
+---
+
+#### Linear Algebra
+
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x#!)| 15 weeks | 8 hours/week
+[Applications of Linear Algebra Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1)| 5 weeks | 4 hours/week
+[Applications of Linear Algebra Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2)| 4 weeks | 5 hours/week
+
+#### Single Variable Calculus
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Calculus 1A: Differentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x)| 13 weeks | 6-10 hours/week
+[Calculus 1B: Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x)| 13 weeks | 5-10 hours/week
+[Calculus 1C: Coordinate Systems & Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x)| 13 weeks | 6-10 hours/week
+
+#### Multivariable Calculus
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[MIT OCW Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/index.htm)| 15 weeks | 8 hours/week
+
+#### Python
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-7)| 9 weeks | 15 hours/week
+[Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-3)| 10 weeks | 15 hours/week
+[Introduction to Python for Data Science](https://prod-edx-mktg-edit.edx.org/course/introduction-python-data-science-microsoft-dat208x-1)| 6 weeks | 2-4 hours/week
+[Programming with Python for Data Science](https://www.edx.org/course/programming-python-data-science-microsoft-dat210x)| 6 weeks | 3-4 hours/week
+
+#### Probability and Statistics
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Introduction to Probability](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-1#.U3yb762SzIo)| 16 weeks | 12 hours/week
+[Statistical Reasoning](https://lagunita.stanford.edu/courses/OLI/StatReasoning/Open/about)| - weeks | - hours/week
+[Introduction to Statistics: Descriptive Statistics](https://www.edx.org/course/introduction-statistics-descriptive-uc-berkeleyx-stat2-1x)| 5 weeks | - hours/week
+[Introduction to Statistics: Probability](https://www.edx.org/course/introduction-statistics-probability-uc-berkeleyx-stat2-2x)| 5 weeks | - hours/week
+[Introduction to Statistics: Inference](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x)| 5 weeks | - hours/week
+
+#### Introduction to Data Science
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Introduction to Data Science](https://www.coursera.org/course/datasci)| 8 weeks | 10-12 hours/week
+[Data Science - CS109 from Harvard](http://cs109.github.io/2015/)| 12 weeks | 5-6 hours/week
+[The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-2)| 12 weeks | 10-15 hours/week
+
+#### Machine Learning
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Learning From Data (Introductory Machine Learning)](https://www.edx.org/course/learning-data-introductory-machine-caltechx-cs1156x)    [[caltech]](http://work.caltech.edu/lectures.html) | 10 weeks | 10-20 hours/week
+[Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)| - weeks | 3 hours/week
+[Stanford's Machine Learning Course](https://www.coursera.org/learn/machine-learning)| - weeks | 8-12 hours/week
+
+#### Project
+Complete Kaggle's Getting Started and Playground Competitions
+
+#### Convex Optimization
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Convex Optimization](https://lagunita.stanford.edu/courses/Engineering/CVX101/Winter2014/about)| 9 weeks | 10 hours/week
+
+#### Data Wrangling
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Data Wrangling with MongoDB](https://www.udacity.com/course/data-wrangling-with-mongodb--ud032)| 8 weeks | 10 hours/week
+
+#### Big Data
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Intro to Hadoop and MapReduce](https://www.udacity.com/course/intro-to-hadoop-and-mapreduce--ud617)| 4 weeks | 6 hours/week
+[Deploying a Hadoop Cluster](https://www.udacity.com/course/deploying-a-hadoop-cluster--ud1000)| 3 weeks | 6 hours/week
+
+#### Database
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Stanford's Database course](https://lagunita.stanford.edu/courses/DB/2014/SelfPaced/about)| - weeks | 8-12 hours/week
+
+#### Natural Language Processing
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)| - weeks | - hours/week
+
+#### Deep Learning
+Courses | Duration | Effort | Status
+:-- | :--: | :--: | :--:
+[Deep Learning](https://www.udacity.com/course/deep-learning--ud730)| 12 weeks | 8-12 hours/week
 
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
