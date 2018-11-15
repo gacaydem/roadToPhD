@@ -4,7 +4,7 @@ def compare(a,b):
         else:
             return a
 
-def compareArr(array,b):
+def insCompare(array,b):
     # n = len(array)
     flag = 0
     if b>=array[-1]:
@@ -14,7 +14,7 @@ def compareArr(array,b):
         array_rem = array[0:-1]
         array_tmp = array[-1-flag:]
         flag += 1
-        result_array = compareArr(array_rem,b)
+        result_array = insCompare(array_rem,b)
         for i in array_tmp:
             result_array.append(i)
         return result_array
