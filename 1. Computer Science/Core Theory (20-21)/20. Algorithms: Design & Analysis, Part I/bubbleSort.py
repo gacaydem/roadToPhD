@@ -13,7 +13,6 @@ def bsort(array):
 sort = input("array=").split(',')
 sort = [int(x) for x in sort] 
 nam = bsort(sort)
-# nam = bsort([1,2,0])
 print(nam)
     
             
