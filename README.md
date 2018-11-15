@@ -1,8 +1,9 @@
 # Mục lục
 - [Giới thiệu](#giới-thiệu)
 - [Nội dung học](#nội-dung-học)
-  - [Computer Science](#computer-science)
-  - [Data Science](#data-science)
+  - [Computer Science](#cs)
+  - [Data Science](#ds)
+  - [Piano](#piano)
 
 # Giới thiệu
 Tôi lập repository này để theo dõi việc tự học của bản thân trong 5 năm tới, định hướng trở thành PhD tại ít nhất 1 trong 2 lĩnh vực Data Science và Computer Science. 
