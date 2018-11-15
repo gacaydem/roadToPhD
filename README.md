@@ -6,21 +6,22 @@
   - [Data Science](#ds)
   - [Piano](#piano)
 
-# Giới thiệu
+# Về bản thân
+Xin chào, tôi là Nam. Hôm nay là 15/11/2018, và tôi 27 tuổi.
 Tôi lập repository này để theo dõi việc tự học của bản thân trong 5 năm tới, định hướng trở thành PhD tại ít nhất 1 trong 2 lĩnh vực Data Science và Computer Science. 
 
 **Tài liệu**:
 - Chủ yếu tài liệu video của tôi được tham khảo từ OSSU CS và DS, khi tìm kiếm từ khoá này các bạn sẽ được dẫn tới list các khoá học đầy đủ của 2 chương trình này.
-- Về giáo trình, có thể dễ dàng tìm kiếm trên mạng qua trang l\*bg\*n.io
+- Về giáo trình, có thể dễ dàng tìm kiếm trên mạng qua trang l\*bg\*n.io.
 
 **Thời gian biểu**:
-- Thường tôi dành 15-20 tiếng cho DS, 15-20 tiếng cho CS mỗi tuần. Ngoài ra tôi cũng luyện cả piano nữa, tầm 7 tiếng/ tuần
-- Tất nhiên để làm được việc này, tôi có phải thực hiện cả việc học "chui" tại công ty. Rất may, sếp hiểu và có tạo điều kiện để tôi phát triển
-- Tôi đã có gia đình, 04/2019 có con :)
+- Thường tôi dành 15-20 tiếng cho DS, 15-20 tiếng cho CS mỗi tuần. Ngoài ra tôi cũng luyện cả piano nữa, tầm 7 tiếng mỗi tuần.
+- Tất nhiên để làm được việc này, tôi có phải thực hiện cả việc học "chui" tại công ty. Rất may, sếp hiểu và có tạo điều kiện để tôi phát triển.
+- Tôi đã có gia đình, 04/2019 có con. :)
 
 **Trình độ**:
-- Tôi tốt nghiệp Điện tử-Viễn thông tại Học viện Kỹ thuật Quân sự. Về lập trình, tôi có base khá vững khi từng tham gia đội tuyển Tin học trường hồi cấp 3. Toán thì luôn là môn tôi thích nhất. Tôi ghét Lý, Hoá.
-- Tháng 11/2018: Tôi chính thức là học viên cao học, ngành Data Science, HUS, VNU
+- Tôi tốt nghiệp Telecommunication & Engineering, MTA, 2014. Về lập trình, tôi có base khá vững khi từng tham gia đội tuyển Tin học trường hồi cấp 3. Toán thì luôn là môn tôi thích nhất. Tôi ghét Lý, Hoá.
+- Tháng 11/2018: Tôi chính thức là học viên cao học, ngành Data Science, HUS, VNU.
 - Ngoại ngữ: Tôi có chứng chỉ TOEIC,820 điểm, tạm đủ dùng để nghiên cứu. Tôi nói cũng tạm ổn.
 
 # Tiến độ tuần này
