@@ -1,28 +1,35 @@
 # Mục lục
+
 - [Giới thiệu](#giới-thiệu)
 - [Nội dung học](#nội-dung-học)
   - [Computer Science](#computer-science)
   - [Data Science](#data-science)
 
-# Giới thiệu
-Tôi lập repository này để theo dõi việc tự học của bản thân trong 5 năm tới, định hướng trở thành PhD tại ít nhất 1 trong 2 lĩnh vực Data Science và Computer Science. 
+## Giới thiệu
+
+Tôi lập repository này để theo dõi việc tự học của bản thân trong 5 năm tới, định hướng trở thành PhD tại ít nhất 1 trong 2 lĩnh vực Data Science và Computer Science.
 
 **Tài liệu**:
+
 - Chủ yếu tài liệu video của tôi được tham khảo từ OSSU CS và DS, khi tìm kiếm từ khoá này các bạn sẽ được dẫn tới list các khoá học đầy đủ của 2 chương trình này.
 - Về giáo trình, có thể dễ dàng tìm kiếm trên mạng qua trang l\*bg\*n.io
 
 **Thời gian biểu**:
+
 - Thường tôi dành 15-20 tiếng cho DS, 15-20 tiếng cho CS mỗi tuần. Ngoài ra tôi cũng luyện cả piano nữa, tầm 7 tiếng/ tuần
 - Tất nhiên để làm được việc này, tôi có phải thực hiện cả việc học "chui" tại công ty. Rất may, sếp hiểu và có tạo điều kiện để tôi phát triển
 - Tôi đã có gia đình, 04/2019 có con :)
 
 **Trình độ**:
+
 - Tôi tốt nghiệp Điện tử-Viễn thông tại Học viện Kỹ thuật Quân sự. Về lập trình, tôi có base khá vững khi từng tham gia đội tuyển Tin học trường hồi cấp 3. Toán thì luôn là môn tôi thích nhất. Tôi ghét Lý, Hoá.
 - Tháng 11/2018: Tôi chính thức là học viên cao học, ngành Data Science, HUS, VNU
 - Ngoại ngữ: Tôi có chứng chỉ TOEIC,820 điểm, tạm đủ dùng để nghiên cứu. Tôi nói cũng tạm ổn.
 
-# Tiến độ tuần này
-## Những phần chung
+## Tiến độ tuần này
+
+### Những phần chung
+
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--: 
 [Introduction to Computer Science and Programming using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-10) | 9 weeks | 15 hours/week | week 5
@@ -30,26 +37,32 @@ Courses | Duration | Effort | Status
 [Machine Learning](https://www.coursera.org/learn/machine-learning)| 11 weeks | 4-6 hours/week | week 6
 
 ---
-## CS
+
+### CS
+
 Courses | Duration | Effort | Status
 :-- | :--: | :--: | :--: 
 [Algorithms: Design and Analysis, Part I](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) | 8 weeks | 4-8 hours/week | unit 3
 
 ---
-## DS
+
+### DS
+
 Courses | Duration | Effort | Status
-:-- | :--: | :--: | :--: 
+:-- | :--: | :--: | :--:
+
 ---
 
 ## Piano
+
 Category | RCM Level | Baroque | Melodic | Mechanical | Status
 :-- | :--: | :--: | :--: | :--: | :--:
-A	| 3-5 |	Bach AMB(1) |	Burgmuller Op. 100 |	Hanon
+A| 3-5 |Bach AMB(1) |Burgmuller Op. 100 |Hanon
 
-<!-- B	| 6-8	| Bach 2PI(2)	| Heller Op. 45(6) ; Berens Op. 61	| Schmitt Op. 16; Clementi PE(9)
-C	| 9-10 |	Bach 3PI(3)	| MacDowell Op. 39(7)	| Czerny Op. 299(10) , 337(11)
-D	| 10+	| Bach WTC(4)	| Moszowski Op. 72; Chopin NE(8) |	Clementi GaP(12) ; Czerny Op. 740(13)
-E	| 10+	| Bach FS(5)	| Chopin Ops. 10, 25 |	Brahms WoO 6(14)
+<!-- B| 6-8| Bach 2PI(2)| Heller Op. 45(6) ; Berens Op. 61| Schmitt Op. 16; Clementi PE(9)
+C| 9-10 |Bach 3PI(3)| MacDowell Op. 39(7)| Czerny Op. 299(10) , 337(11)
+D| 10+| Bach WTC(4)| Moszowski Op. 72; Chopin NE(8) |Clementi GaP(12) ; Czerny Op. 740(13)
+E| 10+| Bach FS(5)| Chopin Ops. 10, 25 |Brahms WoO 6(14)
 
 1. AMB = Anna Magdalena Bach's Notebook
 2. 2PI = Two Part Inventions
