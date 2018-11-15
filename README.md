@@ -1,6 +1,7 @@
 # Mục lục
 - [Giới thiệu](#giới-thiệu)
 - [Nội dung học](#nội-dung-học)
+  - [Những phần chung](#những-phần-chung)
   - [Computer Science](#cs)
   - [Data Science](#ds)
   - [Piano](#piano)
