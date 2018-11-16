@@ -22,7 +22,7 @@ Tôi lập repository này để theo dõi việc tự học của bản thân t
 
 - Thường tôi dành 15-20 tiếng cho DS, 15-20 tiếng cho CS mỗi tuần. Ngoài ra tôi cũng luyện cả piano nữa, tầm 7 tiếng mỗi tuần.
 - Tất nhiên để làm được việc này, tôi có phải thực hiện cả việc học "chui" tại công ty. Rất may, sếp hiểu và có tạo điều kiện để tôi phát triển.
-- Tôi đã có gia đình, 04/2019 có con. :)
+- Tôi đã có gia đình, 2019 có con. :)
 
 **Trình độ**:
 
