@@ -28,7 +28,7 @@ Tôi lập repository này để theo dõi việc tự học của bản thân t
 
 - Tôi tốt nghiệp Telecommunication & Engineering, MTA, 2014. Về lập trình, tôi có base khá vững khi từng tham gia đội tuyển Tin học trường hồi cấp 3. Toán thì luôn là môn tôi thích nhất. Tôi ghét Lý, Hoá.
 - Tháng 11/2018: Tôi chính thức là học viên cao học, ngành Data Science, HUS, VNU.
-- Ngoại ngữ: Tôi có chứng chỉ TOEIC,820 điểm, tạm đủ dùng để nghiên cứu. Tôi nói cũng tạm ổn.
+- Ngoại ngữ: Tôi có chứng chỉ TOEIC, tạm đủ dùng để nghiên cứu. Tôi nói cũng tạm ổn.
 
 ## Tiến độ tuần này
 
