@@ -10,7 +10,6 @@
 ## Giới thiệu
 
 Xin chào, tôi là Nam. Hôm nay là 15/11/2018, và tôi 27 tuổi.
-Tôi lập repository này để theo dõi việc tự học của bản thân trong 5 năm tới, định hướng trở thành PhD tại ít nhất 1 trong 2 lĩnh vực Data Science và Computer Science. 
 
 Tôi lập repository này để theo dõi việc tự học của bản thân trong 5 năm tới, định hướng trở thành PhD tại ít nhất 1 trong 2 lĩnh vực Data Science và Computer Science.
 
