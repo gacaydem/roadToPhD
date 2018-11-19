@@ -10,7 +10,6 @@
 ## Giới thiệu
 
 Xin chào, tôi là Nam. Hôm nay là 15/11/2018, và tôi 27 tuổi.
-Tôi lập repository này để theo dõi việc tự học của bản thân trong 5 năm tới, định hướng trở thành PhD tại ít nhất 1 trong 2 lĩnh vực Data Science và Computer Science. 
 
 Tôi lập repository này để theo dõi việc tự học của bản thân trong 5 năm tới, định hướng trở thành PhD tại ít nhất 1 trong 2 lĩnh vực Data Science và Computer Science.
 
@@ -23,13 +22,13 @@ Tôi lập repository này để theo dõi việc tự học của bản thân t
 
 - Thường tôi dành 15-20 tiếng cho DS, 15-20 tiếng cho CS mỗi tuần. Ngoài ra tôi cũng luyện cả piano nữa, tầm 7 tiếng mỗi tuần.
 - Tất nhiên để làm được việc này, tôi có phải thực hiện cả việc học "chui" tại công ty. Rất may, sếp hiểu và có tạo điều kiện để tôi phát triển.
-- Tôi đã có gia đình, 04/2019 có con. :)
+- Tôi đã có gia đình, 2019 có con. :)
 
 **Trình độ**:
 
 - Tôi tốt nghiệp Telecommunication & Engineering, MTA, 2014. Về lập trình, tôi có base khá vững khi từng tham gia đội tuyển Tin học trường hồi cấp 3. Toán thì luôn là môn tôi thích nhất. Tôi ghét Lý, Hoá.
 - Tháng 11/2018: Tôi chính thức là học viên cao học, ngành Data Science, HUS, VNU.
-- Ngoại ngữ: Tôi có chứng chỉ TOEIC,820 điểm, tạm đủ dùng để nghiên cứu. Tôi nói cũng tạm ổn.
+- Ngoại ngữ: Tôi có chứng chỉ TOEIC, tạm đủ dùng để nghiên cứu. Tôi nói cũng tạm ổn.
 
 ## Tiến độ tuần này
 
